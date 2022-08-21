@@ -3,18 +3,16 @@
 
 - 🔭 I’m currently working on **Javascript, DSA with java**
 
-- 🌱 I’m currently learning **web3.0 , DSA**
+- 🌱 I’m currently learning **web3.0**
 
 - 📝 I regularly write articles on [https://dineshaitham.hashnode.dev/](https://dineshaitham.hashnode.dev/)
 
-- 💬 Ask me about **java, solidity, DSA**
 
 - 📫 How to reach me **dineshaitham2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dineshaitham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshaitham1" height="30" width="40" /></a>
-<a href="https://instagram.com/dineshaitham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dineshaitham" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dineshaitham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineshaitham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dineshaitham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dineshaitham" height="30" width="40" /></a>
 </p>
